@@ -10,7 +10,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesrw1750&layout=donut&theme=github_dark_dimmed)](https://github.com/charlesrw1750/github-readme-stats)
 
  
-![Charles GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesrw1750&show_icons=true&theme=radical)
  
 
 Se me der toda a tecnologia disponível agora, no minuto seguinte estarei sedento por mais.
